@@ -1,0 +1,8 @@
+.Imagem{
+    width: 300px!important;
+    height: 200px!important;
+}
+.div-teste{
+    display: grid;
+    grid-template-columns: 20% 20% 20% 20% 20%;
+}
